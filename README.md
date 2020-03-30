@@ -8,9 +8,7 @@ Responsive design web application with the following files:
 
 *`contact.html`
 
-And the following itens:
-
-*
+*And the following itens:
 
     * A navbar
 
